@@ -1,6 +1,6 @@
 # BancoAppCliente
 
-Aplicación bancaria de escritorio diseñada para el cliente final. Permite registrarse, iniciar sesión y operar con una cuenta bancaria de manera simple y visual, con una estética similar a la app del Banco Francés (BBVA).
+Aplicación bancaria de escritorio diseñada para el cliente final. Permite registrarse, iniciar sesión y operar con una cuenta bancaria de manera simple y visual.
 
 ## Funcionalidades
 
